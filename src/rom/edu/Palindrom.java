@@ -57,7 +57,7 @@ package rom.edu;
 
             String[] words = new String[5];
             words[0] = "«А роза упала на лапу Азора";
-            words[1] = "Ужгород = красивое место";
+            words[1] = "Ужгород - красивый город";
             words[2] = "Мог оратор о ворота рогом";
             words[3] = "Vasyl likes to play football" + " ";
             words[4] = "Was it a cat I saw?";
