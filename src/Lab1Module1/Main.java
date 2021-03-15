@@ -70,10 +70,12 @@ import java.io.IOException;
             Arrays.sort(distinctArray);
 
             // Вивід кількості слів які починаються на "С"
-
+            int counter = 0;
             for (int i = 0; i < distinctArray.length; i++) {
-                distinctArray[i] = distinctArray[i];
-                System.out.println(distinctArray[i]);
+               if (distinctArray[i].charAt(0) = 'C')
+               {
+                   counter++;
+               }
             }
             // Масив хешів:
 
